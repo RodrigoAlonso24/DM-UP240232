@@ -1,0 +1,33 @@
+HTML
+
+¿Qué es HTML y para que sirve?
+Es un lenguaje de etiquetas que se usa para paginas web, sirve para decirle al navegador que contenido tiene la pagina
+
+¿Cuál es la diferencia entre HTML, CSS y JavaScript?
+HTML es para darle estructura y contenido a la pagina, CSS es para darle diseño y JavaScript es para que la pagina tenga interacción
+
+¿Por qué HTML no es un lenguaje de programación?
+Porque no tiene lógica ni toma de decisiones, solo sirve para mostrar contenido
+
+¿Cuál es la estructura básica de un archivo HTML?
+Docktype: Para indicar que es HTML
+HTML: Como contenedor principal
+Head: Donde va información como titulo
+Body: Donde va todo lo que se ve en la pagina
+
+¿Qué es una etiqueta en HTML?, Especifica cual es la etiqueta de cierre, apertura y contenido
+Una etiqueta es lo que se usa para definir un elemento en HTML
+<p> Hola mundo </p>
+
+¿Qué es un atributo en HTML y para que sirve?
+Es información que se le da una etiqueta para darle alguna característica especifica
+
+¿Qué es el atributo class?
+Sirve para agrupar varios elementos y aplicarles el mismo estilo
+
+¿Qué es el atributo ID?
+Identifica a un solo elemento y no se puede repetir
+
+¿Cómo se escribe un atributo?, Ejemplo y estructura
+<etiqueta atributo="valor">Contenido</etiqueta>
+<p class="texto">Este es un párrafo</p>
